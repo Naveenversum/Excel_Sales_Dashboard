@@ -72,3 +72,7 @@ The final dashboard uses charts and KPI cards to present the sales performance i
 - Data Visualization
 - Dashboard Development
 - Business Analysis
+
+## Dashboard Preview
+
+![Excel Sales Dashboard](Excel-Sales-Dashboard.png)
